@@ -1,7 +1,6 @@
 package SolarSystem;
 
-public class FeatureSun {
-
+public class featureSun {
     String color;
     String temp;
     String size;
